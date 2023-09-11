@@ -1,6 +1,6 @@
-# This is not intent to be completed in a day, it is intent to be completed in few weeks.
+# This is not intented to be completed in a day, it is intented to be completed in few weeks.
 
-### This is the web app that i wanted to create in past few days.
+### This is the web app that I wanted to create in past few days.
 
 ### The main functionality of this web app
 
