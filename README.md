@@ -1,8 +1,9 @@
-# React + Vite
+# This is not intent to be completed in a day, it is intent to be completed in few weeks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### This is the web app that i wanted to create in past few days.
 
-Currently, two official plugins are available:
+### The main functionality of this web app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.  to keep track where I spend my money at
+2.  how much I spend each day.
+3.  how much I spend each month.
